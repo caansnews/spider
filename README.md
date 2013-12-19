@@ -1,0 +1,4 @@
+spider
+======
+
+A generic spider
